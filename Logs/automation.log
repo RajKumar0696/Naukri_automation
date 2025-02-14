@@ -1,0 +1,235 @@
+02/04/2025 05:14:40 PM: INFO: started
+02/04/2025 05:14:51 PM: INFO: title check
+02/04/2025 05:16:17 PM: INFO: started
+02/04/2025 05:16:28 PM: INFO: title check
+02/04/2025 05:16:28 PM: INFO: matched
+02/05/2025 10:21:11 AM: INFO: started
+02/05/2025 10:21:23 AM: INFO: title check
+02/05/2025 10:21:23 AM: INFO: matched
+02/05/2025 10:22:02 AM: INFO: started
+02/05/2025 10:22:15 AM: INFO: title check
+02/05/2025 10:22:15 AM: INFO: not matched
+02/05/2025 10:26:51 AM: INFO: started
+02/05/2025 10:27:01 AM: INFO: title check
+02/05/2025 10:27:01 AM: INFO: not matched
+02/05/2025 03:13:55 PM: INFO: Login page title checking start
+02/05/2025 03:13:55 PM: INFO: not matched
+02/05/2025 03:13:59 PM: INFO: full_name checking
+02/05/2025 03:13:59 PM: INFO: Matched
+02/05/2025 03:14:00 PM: INFO: home page title checking
+02/05/2025 03:14:01 PM: INFO: not matched
+02/05/2025 03:17:40 PM: INFO: Login page title checking start
+02/05/2025 03:17:40 PM: INFO: matched
+02/05/2025 03:17:44 PM: INFO: full_name checking
+02/05/2025 03:17:44 PM: INFO: Matched
+02/05/2025 03:17:44 PM: INFO: home page title checking
+02/05/2025 03:17:44 PM: INFO: matched
+02/05/2025 03:19:09 PM: INFO: Login page title checking start
+02/05/2025 03:19:09 PM: INFO: matched
+02/05/2025 03:19:14 PM: INFO: full_name checking
+02/05/2025 03:19:14 PM: INFO: Matched
+02/05/2025 03:19:15 PM: INFO: home page title checking
+02/05/2025 03:19:15 PM: INFO: matched
+02/07/2025 09:30:20 AM: INFO: Login page title checking start
+02/07/2025 09:30:20 AM: INFO: matched
+02/07/2025 09:30:24 AM: INFO: full_name checking
+02/07/2025 09:30:24 AM: INFO: Matched
+02/07/2025 09:30:24 AM: INFO: home page title checking
+02/07/2025 09:30:24 AM: INFO: matched
+02/07/2025 09:30:27 AM: INFO: started
+02/07/2025 09:30:35 AM: INFO: title check
+02/07/2025 09:30:35 AM: INFO: not matched
+02/07/2025 10:24:43 AM: INFO: started
+02/07/2025 10:24:47 AM: INFO: Login page title checking start
+02/07/2025 10:24:47 AM: INFO: matched
+02/07/2025 10:24:51 AM: INFO: full_name checking
+02/07/2025 10:24:51 AM: INFO: Matched
+02/07/2025 10:24:52 AM: INFO: title check
+02/07/2025 10:24:52 AM: INFO: not matched
+02/07/2025 10:24:52 AM: INFO: home page title checking
+02/07/2025 10:24:52 AM: INFO: matched
+02/07/2025 10:28:05 AM: INFO: started
+02/07/2025 10:28:14 AM: INFO: title check
+02/07/2025 10:28:14 AM: INFO: not matched
+02/07/2025 10:30:39 AM: INFO: started
+02/07/2025 10:30:43 AM: INFO: Login page title checking start
+02/07/2025 10:30:43 AM: INFO: matched
+02/07/2025 10:30:48 AM: INFO: title check
+02/07/2025 10:30:48 AM: INFO: not matched
+02/07/2025 10:30:48 AM: INFO: full_name checking
+02/07/2025 10:30:48 AM: INFO: Matched
+02/07/2025 10:30:49 AM: INFO: home page title checking
+02/07/2025 10:30:49 AM: INFO: matched
+02/07/2025 03:25:20 PM: INFO: started
+02/07/2025 03:25:29 PM: INFO: title check
+02/07/2025 03:25:29 PM: INFO: not matched
+02/07/2025 03:26:18 PM: INFO: started
+02/07/2025 03:26:27 PM: INFO: title check
+02/07/2025 03:26:27 PM: INFO: not matched
+02/07/2025 03:26:35 PM: INFO: Login page title checking start
+02/07/2025 03:26:35 PM: INFO: matched
+02/07/2025 03:26:40 PM: INFO: full_name checking
+02/07/2025 03:26:40 PM: INFO: Matched
+02/07/2025 03:26:40 PM: INFO: home page title checking
+02/07/2025 03:26:40 PM: INFO: matched
+02/07/2025 03:26:43 PM: INFO: started
+02/07/2025 03:26:53 PM: INFO: title check
+02/07/2025 03:26:53 PM: INFO: not matched
+02/07/2025 03:27:08 PM: INFO: started
+02/07/2025 03:27:22 PM: INFO: started
+02/07/2025 03:28:59 PM: INFO: started
+02/07/2025 03:29:09 PM: INFO: title check
+02/07/2025 03:29:09 PM: INFO: not matched
+02/07/2025 03:29:16 PM: INFO: Login page title checking start
+02/07/2025 03:29:16 PM: INFO: matched
+02/07/2025 03:29:21 PM: INFO: full_name checking
+02/07/2025 03:29:21 PM: INFO: Matched
+02/07/2025 03:29:22 PM: INFO: home page title checking
+02/07/2025 03:29:22 PM: INFO: matched
+02/07/2025 03:29:24 PM: INFO: started
+02/07/2025 03:29:32 PM: INFO: title check
+02/07/2025 03:29:32 PM: INFO: not matched
+02/07/2025 03:32:57 PM: INFO: started
+02/07/2025 03:32:58 PM: INFO: started
+02/07/2025 03:33:04 PM: INFO: Login page title checking start
+02/07/2025 03:33:04 PM: INFO: matched
+02/07/2025 03:33:08 PM: INFO: title check
+02/07/2025 03:33:08 PM: INFO: not matched
+02/07/2025 03:33:09 PM: INFO: full_name checking
+02/07/2025 03:33:09 PM: INFO: Matched
+02/07/2025 03:33:09 PM: INFO: title check
+02/07/2025 03:33:09 PM: INFO: not matched
+02/07/2025 03:33:09 PM: INFO: home page title checking
+02/07/2025 03:33:09 PM: INFO: matched
+02/07/2025 03:50:16 PM: INFO: started
+02/07/2025 03:50:26 PM: INFO: title check
+02/07/2025 03:50:26 PM: INFO: not matched
+02/07/2025 03:50:32 PM: INFO: Login page title checking start
+02/07/2025 03:50:32 PM: INFO: matched
+02/07/2025 03:50:36 PM: INFO: full_name checking
+02/07/2025 03:50:36 PM: INFO: Matched
+02/07/2025 03:50:37 PM: INFO: home page title checking
+02/07/2025 03:50:37 PM: INFO: matched
+02/07/2025 03:50:39 PM: INFO: started
+02/07/2025 03:50:47 PM: INFO: title check
+02/07/2025 03:50:47 PM: INFO: not matched
+02/07/2025 03:51:12 PM: INFO: started
+02/07/2025 03:51:20 PM: INFO: title check
+02/07/2025 03:51:20 PM: INFO: not matched
+02/07/2025 03:51:26 PM: INFO: Login page title checking start
+02/07/2025 03:51:26 PM: INFO: matched
+02/07/2025 03:51:30 PM: INFO: full_name checking
+02/07/2025 03:51:30 PM: INFO: Matched
+02/07/2025 03:51:31 PM: INFO: home page title checking
+02/07/2025 03:51:31 PM: INFO: matched
+02/07/2025 03:51:33 PM: INFO: started
+02/07/2025 03:51:41 PM: INFO: title check
+02/07/2025 03:51:41 PM: INFO: not matched
+02/07/2025 03:51:53 PM: INFO: started
+02/07/2025 03:52:02 PM: INFO: title check
+02/07/2025 03:52:02 PM: INFO: not matched
+02/07/2025 03:52:05 PM: INFO: started
+02/07/2025 03:54:57 PM: INFO: started
+02/07/2025 03:55:08 PM: INFO: title check
+02/07/2025 03:55:08 PM: INFO: not matched
+02/07/2025 03:55:17 PM: INFO: Login page title checking start
+02/07/2025 03:55:17 PM: INFO: matched
+02/07/2025 03:55:23 PM: INFO: full_name checking
+02/07/2025 03:55:23 PM: INFO: Matched
+02/07/2025 03:55:24 PM: INFO: home page title checking
+02/07/2025 03:55:24 PM: INFO: matched
+02/07/2025 03:55:26 PM: INFO: started
+02/07/2025 03:55:38 PM: INFO: title check
+02/07/2025 03:55:38 PM: INFO: not matched
+02/07/2025 03:56:50 PM: INFO: started
+02/07/2025 03:56:59 PM: INFO: title check
+02/07/2025 03:56:59 PM: INFO: not matched
+02/07/2025 03:57:06 PM: INFO: Login page title checking start
+02/07/2025 03:57:06 PM: INFO: matched
+02/07/2025 03:57:10 PM: INFO: full_name checking
+02/07/2025 03:57:10 PM: INFO: Matched
+02/07/2025 03:57:10 PM: INFO: home page title checking
+02/07/2025 03:57:10 PM: INFO: matched
+02/07/2025 03:57:12 PM: INFO: started
+02/07/2025 03:57:21 PM: INFO: title check
+02/07/2025 03:57:21 PM: INFO: not matched
+02/07/2025 03:58:23 PM: INFO: Login page title checking start
+02/07/2025 03:58:23 PM: INFO: matched
+02/07/2025 03:58:27 PM: INFO: full_name checking
+02/07/2025 03:58:27 PM: INFO: Matched
+02/07/2025 03:58:27 PM: INFO: home page title checking
+02/07/2025 03:58:27 PM: INFO: matched
+02/07/2025 03:58:30 PM: INFO: started
+02/07/2025 03:58:38 PM: INFO: title check
+02/07/2025 03:58:38 PM: INFO: not matched
+02/07/2025 04:02:16 PM: INFO: Login page title checking start
+02/07/2025 04:02:16 PM: INFO: matched
+02/07/2025 04:02:51 PM: INFO: started
+02/07/2025 04:18:14 PM: INFO: Login page title checking start
+02/07/2025 04:18:14 PM: INFO: matched
+02/07/2025 04:18:18 PM: INFO: full_name checking
+02/07/2025 04:18:18 PM: INFO: Matched
+02/07/2025 04:18:19 PM: INFO: home page title checking
+02/07/2025 04:18:19 PM: INFO: matched
+02/07/2025 04:18:21 PM: INFO: started
+02/07/2025 04:18:29 PM: INFO: title check
+02/07/2025 04:18:29 PM: INFO: not matched
+02/07/2025 04:32:01 PM: INFO: Login page title checking start
+02/07/2025 04:32:01 PM: INFO: matched
+02/07/2025 04:32:05 PM: INFO: full_name checking
+02/07/2025 04:32:05 PM: INFO: Matched
+02/07/2025 04:32:06 PM: INFO: home page title checking
+02/07/2025 04:32:06 PM: INFO: matched
+02/07/2025 04:32:08 PM: INFO: started
+02/07/2025 04:32:17 PM: INFO: title check
+02/07/2025 04:32:17 PM: INFO: not matched
+02/08/2025 11:49:11 AM: INFO: started
+02/08/2025 11:49:15 AM: INFO: Login page title checking start
+02/08/2025 11:49:15 AM: INFO: matched
+02/08/2025 11:49:18 AM: INFO: full_name checking
+02/08/2025 11:49:18 AM: INFO: Matched
+02/08/2025 11:49:19 AM: INFO: home page title checking
+02/08/2025 11:49:19 AM: INFO: matched
+02/08/2025 11:49:20 AM: INFO: title check
+02/08/2025 11:49:20 AM: INFO: not matched
+02/10/2025 10:51:46 AM: INFO: Login page title checking start
+02/10/2025 10:51:46 AM: INFO: matched
+02/10/2025 10:51:52 AM: INFO: full_name checking
+02/10/2025 10:51:52 AM: INFO: Matched
+02/10/2025 10:51:53 AM: INFO: home page title checking
+02/10/2025 10:51:53 AM: INFO: matched
+02/10/2025 10:51:53 AM: INFO: started
+02/10/2025 10:52:00 AM: INFO: title check
+02/10/2025 10:52:00 AM: INFO: not matched
+02/10/2025 11:12:30 AM: INFO: Login page title checking start
+02/10/2025 11:12:30 AM: INFO: matched
+02/10/2025 11:12:36 AM: INFO: full_name checking
+02/10/2025 11:12:36 AM: INFO: Matched
+02/10/2025 11:15:35 AM: INFO: Login page title checking start
+02/10/2025 11:15:35 AM: INFO: matched
+02/10/2025 11:15:40 AM: INFO: full_name checking
+02/10/2025 11:15:40 AM: INFO: Matched
+02/10/2025 11:19:43 AM: INFO: Login page title checking start
+02/10/2025 11:19:43 AM: INFO: matched
+02/10/2025 11:19:49 AM: INFO: full_name checking
+02/10/2025 11:19:49 AM: INFO: Matched
+02/10/2025 11:20:45 AM: INFO: Login page title checking start
+02/10/2025 11:20:45 AM: INFO: matched
+02/10/2025 11:20:50 AM: INFO: full_name checking
+02/10/2025 11:20:50 AM: INFO: not matched
+02/10/2025 11:23:06 AM: INFO: Login page title checking start
+02/10/2025 11:23:06 AM: INFO: matched
+02/10/2025 11:23:11 AM: INFO: full_name checking
+02/10/2025 11:23:11 AM: INFO: Matched
+02/10/2025 11:28:36 AM: INFO: Login page title checking start
+02/10/2025 11:28:36 AM: INFO: matched
+02/10/2025 11:28:42 AM: INFO: full_name checking
+02/10/2025 11:28:42 AM: INFO: Matched
+02/10/2025 11:46:35 AM: INFO: Login page title checking start
+02/10/2025 11:46:35 AM: INFO: matched
+02/10/2025 11:46:40 AM: INFO: full_name checking
+02/10/2025 11:46:40 AM: INFO: Matched
+02/11/2025 09:45:09 AM: INFO: Login page title checking start
+02/11/2025 09:45:09 AM: INFO: matched
+02/11/2025 09:45:13 AM: INFO: full_name checking
+02/11/2025 09:45:13 AM: INFO: Matched
